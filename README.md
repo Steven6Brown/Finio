@@ -162,5 +162,5 @@ Interested in licensing or acquiring rights to this project? Reach out via [Aqui
 
 ## Author
 
-**Stevie Brown**
+**Steven Brown**
 [Portfolio](https://www.stevenrbrown.org) · [GitHub](https://github.com/Steven6Brown)
