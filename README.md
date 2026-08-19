@@ -152,7 +152,11 @@ Finio is built with privacy as a core principle:
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Copyright © 2026 Aquila Digital. All rights reserved.
+
+This code is proprietary and shared publicly for portfolio and demonstration purposes only. No permission is granted to use, copy, modify, distribute, or create derivative works from this software without explicit written consent from Aquila Digital.
+
+Interested in licensing or acquiring rights to this project? Reach out via [Aquila Digital](https://github.com/Steven6Brown).
 
 ---
 
