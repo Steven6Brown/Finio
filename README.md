@@ -4,7 +4,7 @@ A privacy-first iOS budget tracker that automatically parses your bank charge no
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-F97316?style=flat&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-17+-0F172A?style=flat&logo=apple&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat)
+![License](https://img.shields.io/badge/License-Proprietary-1E293B?style=flat)
 
 ---
 
